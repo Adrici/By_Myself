@@ -1,16 +1,6 @@
 # By_Myself
-EG
-The universe of technology has been arrived at me through some friends that tell me about introducted web development courses 
-maden for presentation this issue to womans people.
-So, I've been participated in front-end WorkShop and studied web lessons for beginers that resulted in my first creation by just 
-my selfie. This prodution mentioned was called YOGA BADERNA and is about my friend Victoria that is a channel classes yoga owner in youtube
-and is my suppotive, she really belives in my dreamns. YOGA BADERNA still in building, but if you are interesting about yoga, you
-can check her channel youtube ;) . 
-After this, I continuing study web development and my goal is improving my works always. 
+EN: I got in touch with the universe of technology through some friends who introduced me to web development courses aimed at presenting this topic to women. So, I took part in a front-end workshop and studied web lessons for beginners that resulted in my first creation. The aforementioned creation was the website YOGA BADERNA, which I made for a friend of mine, Victoria, who is very supportive of my work and has a YouTube channel where she promotes her yoga classes. The page is still under construction, but if you are interested in doing yoga, you can check her channel ;). After doing her website, I want to go on studying web development and my goal is to keep improving my work.
 
-PT
-O universo da tecnologia chegou até mim através de algumas amigas que me apresentaram cursos de desenolvivimento web, pensados para parensentar este assunto para muulheres em geral. 
-Então, paticipei de um WorkShop de front-end e, depois disso, comecei a estudar conteúdos digitais para programadores iniciantes, o que na minha primeira criação. A criação mencionada foi uma página web que organizei para minha amiga Victoria, que, além de ser proprietária de um canal no youtube que promove aulas de yoga na internet, também é uma grande apoiadora dos meus sonhos. A página web mencionada foi nomeada como YOGABADERNA e ainda está em contrução, mas se você estiver interessado em praticar yoga, você pode conferir o canal de youtube dela ;). 
-Depois disso, eu continuo a estudar desenvolvimento web e a minah meta é aperfeiçar os meus trabalhos sempre. 
+PT:  O universo da tecnologia chegou até mim através de algumas amigas que me apresentaram cursos de desenvolvimento web, pensados para apresentar esse assunto para mulheres em geral. Então, participei de um workshop de front-end e, depois disso, comecei a estudar conteúdos digitais para programadores iniciantes, o que resultou na minha primeira criação. A criação mencionada foi uma página web que organizei para minha amiga Victoria, que, além de ser proprietária de um canal no youtube que promove aulas de yoga na internet, também é uma grande apoiadora dos meus sonhos. A página web foi nomeada como YOGA BADERNA e ainda está em construção, mas se você estiver interessado em praticar yoga, pode conferir o canal dela no YouTube ;). Depois disso, eu continuo a estudar desenvolvimento web e a minha meta é aperfeiçar os meus trabalhos sempre.
 
 
