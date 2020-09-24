@@ -1,0 +1,96 @@
+body{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #120a8f;
+  color:#fff;
+  margin: 0;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: 300;
+  color: yellow; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+  color: greenyellow; 
+  font-size: 40px;
+}
+
+h3{
+  font-size: 22px;
+  text-decoration: normal;
+  color:goldenrod;  
+}
+
+h4{
+  color: yellow; 
+}
+
+p{
+  font-size: 20px;
+  line-height: 1.5em;
+}
+
+
+section {
+  width: 60%; 
+  margin: 0 auto; 
+}
+
+section section{
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px; 
+  border: 2px solid yellow;
+}
+
+.img-infancia{
+  width: 50%; 
+  height: 50%;
+}
+
+ul{
+  list-style-type: none;
+  line-height: 2em; 
+  padding-left: 0;
+}
+
+a{
+  text-decoration: underline; 
+  color: greenyellow;
+  font-weight: 700;
+}
+
+.principal {
+  height: 45px;
+  max-width: 60%;
+  margin: 0 auto; 
+}
+
+.principal ul li a{
+  color: black;
+  text-decoration: underline;
+  font-weight: normal;
+  background-color: greenyellow;
+  font-size: 15px;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 89px; 
+  text-decoration: underline;
+
+}
+
+  button{
+   background: #ffff;
+   border: 1px solid transparent;
+   padding: 2px 20px;
+   border-radius: 4px;  
+  }
