@@ -1,0 +1,96 @@
+/*Estilos da página index.html*/
+
+.corpo{
+    margin: 0 ;
+    width: 100%;
+    font-family: 'Space Mono', monospace;   
+}
+.header{
+    background-color: none;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+}
+.center{
+    text-align: center;
+    
+}
+
+.justify{
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.sobre-missao{
+    max-width: 42%;
+    margin: 0 auto;
+    background-color:none;
+    margin-left: 50px;
+    
+}
+.menu-nav{
+    position:fixed;
+    background-color:black;
+    margin: 0 auto; 
+    width:100%;
+}
+#menu li{
+    display: inline;
+    padding: 70px;
+    text-align: center;
+    border-radius: 10px; 
+    text-align: center;
+    
+}
+
+#menu li a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    background-color:none;
+
+}
+
+#menu li a:hover{
+    color:gray;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.br-50{
+    border-radius: 50%;
+     
+}
+
+.wh{
+    width: 250px;
+    height: 300px;
+    
+}
+
+.tm-social{
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+#id-footer{
+    background-color: darkgrey;
+}
+
+/*Estilos da página contato.html*/
+.ml-50{
+    margin-left: 50px;
+}
